@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "01FEA1EDF4256EF1E629DF28AAA0A790DEF4EC87",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1BF19058C9B814F8BA3C3075BCECA7739FE75020" : 9223372036854775807,
+    "01FEA1EDF4256EF1E629DF28AAA0A790DEF4EC87" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "97D9AB81-DB2E-4372-AF83-AE9F5397CA51",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1BF19058C9B814F8BA3C3075BCECA7739FE75020" : "FFmpeg-iOS-build-script\/",
+    "01FEA1EDF4256EF1E629DF28AAA0A790DEF4EC87" : "iFrameExtractor\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iFrameExtractor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iFrameExtractor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gevin\/iFrameExtractor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "01FEA1EDF4256EF1E629DF28AAA0A790DEF4EC87"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kewlbear\/FFmpeg-iOS-build-script",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1BF19058C9B814F8BA3C3075BCECA7739FE75020"
+    }
+  ]
+}
